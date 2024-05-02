@@ -1,1 +1,3 @@
 # MovingAverageBTC
+
+code that find the best moving average for a certain period of time, i personnaly chosed the date from 2024-03-13 and stopped at 2024-05-02.  the test.py find the most profitable moving average with a for loop. The user.py let you choose the duration of the moving average, display a graph of the btc price and the moving average with buy and sell signal. lastly, it display the value of your portfolio over time. With a buy signal at first at 2024-03-17 and a last sell signal at 2024-04-29, with initially a portfolio of 2000$, i'm in profit a 477.29$. With just a holding of btc from 2024-03-17, i would be in negative.
